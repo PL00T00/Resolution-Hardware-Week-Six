@@ -19,7 +19,7 @@ Here's a video of it working!
 [Screencast_20260512_124036.webm](https://github.com/user-attachments/assets/7e6d235c-b2b6-4c5b-8f1e-a784b4b8bbad)
 
 
-Try it out here!
+Try it out here! (You can change the distance by clicking on the ultrasonic sensor!)
 
 <a> https://wokwi.com/projects/463779537989393409 </a>
 
